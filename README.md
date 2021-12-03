@@ -4,11 +4,16 @@
 
 - 👀 I’m working on my Portfolio Website
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to write and beatbox
+- 🥅 Goals: Get good at Blender 3D
+- ⚡ Fun fact: I love to **Write** and **Beatbox**
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />  
+  
+### Languages and Tools:
 
 [linkedin]: https://www.linkedin.com/in/abhimanyu-singh-059605138/
 
