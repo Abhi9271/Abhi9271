@@ -1,6 +1,6 @@
 ### Hi there, I'm Abhimanyu!! 👋
 
-## I'm a Student, Python Teacher and an aspiring Developer!
+## I'm a Student and an aspiring Developer!
 
 - 👀 I’m working on my Portfolio Website
 - 🌱 I’m currently learning everything 🤣
