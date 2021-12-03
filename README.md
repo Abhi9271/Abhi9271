@@ -1,6 +1,17 @@
-- 👋 Hi, I’m Abhimanyu Singh
-- 👀 I’m interested in 3D Modelling, Artificial Intelligence and Cloud computing 
-- 🌱 I’m currently learning DevOps, Cloud Computing and Web Development
+### Hi there, I'm Abhimanyu 👋
+
+## I'm a Student, Python Teacher and an aspiring Developer!
+
+- 👀 I’m working on my Portfolio Website
+- 🌱 I’m currently learning everything 🤣
+- ⚡ Fun fact: I love to write and beatbox
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/codeSTACKr
+
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
