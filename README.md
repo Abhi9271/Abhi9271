@@ -4,7 +4,7 @@
 
 - 👀 I’m working on my Portfolio Website
 - 🌱 I’m currently learning everything 🤣
-- 🥅 Goals: Get good at Blender 3D
+- 🥅 Goals: Getting good at Blender 3D
 - ⚡ Fun fact: I love to **Write** and **Beatbox**
 
 ### Connect with me:
