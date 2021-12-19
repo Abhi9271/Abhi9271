@@ -2,7 +2,7 @@
 
 ## I'm a Student and an aspiring Developer!
 
-- 👀 I’m working on my Portfolio Website
+- 👀 I’m working as a Trainee Software Development Engineer
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Goals: Getting good at Blender 3D
 - ⚡ Fun fact: I love to **Write** and **Beatbox**
