@@ -1,10 +1,10 @@
 ### Hi there, I'm Abhimanyu!! 👋
 
-## I'm a Student and an aspiring Developer!
+## I'm a Full Stack Developer!
 
-- 👀 I’m working as a Trainee Software Development Engineer
+- 👀 I’m working as an SDE
 - 🌱 I’m currently learning everything 🤣
-- 🥅 Goals: Getting good at Blender 3D
+- 🥅 Goals: Getting good at Python, React Native, AWS, Azure and Linux
 - ⚡ Fun fact: I love to **Write** and **Beatbox**
 
 ### Connect with me:
